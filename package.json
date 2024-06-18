@@ -1,0 +1,17 @@
+{
+  "name": "repro",
+  "version": "1.0.0",
+  "description": "This is the test gitflow POC repo.",
+  "main": "main.js",
+  "engines": {
+    "node": ">=18.20.0 <=20.7.0"
+  },
+  "scripts": {
+    "tsc": "tsc --noEmit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
